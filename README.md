@@ -10,4 +10,4 @@ It provides:
 🚨 Safety instructions
 🗺️ Location visualization on an interactive map
 
-The system is designed for educational and demonstration purposes.
+
